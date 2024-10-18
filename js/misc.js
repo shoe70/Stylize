@@ -1,6 +1,6 @@
 //
 //	misc.js
-//	landingpager
+//	stylize
 //
 //	Created by Shaunak Ghosh on 10/11/2023.
 //
