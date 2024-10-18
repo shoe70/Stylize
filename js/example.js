@@ -1,6 +1,6 @@
 //
 //	example.js
-//	landingpager
+//	stylize
 //
 //	Created by Shaunak Ghosh on 11/11/2023.
 //
