@@ -1,5 +1,5 @@
 ================= stylize ==================
-a simple HTML/C/C++ design plugin for macOS,
+a simple HTML design plugin for macOS,
 Windows and Linux created by Shaunak Ghosh.
 
 Licenced under the MIT Licence.
