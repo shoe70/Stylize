@@ -189,5 +189,5 @@ The rest will be done for you and will
 adapt natually to the size and length of the  
 text.
 
-thanks for using landingpager!
+thanks for using Stylize!
 hope you come again!
